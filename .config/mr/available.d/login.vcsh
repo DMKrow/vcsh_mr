@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/login.git]
-checkout = vcsh clone git://github.com/DMKrow/vcsh_login.git login
+checkout = vcsh clone git@github.com:DMKrow/vcsh_login.git login

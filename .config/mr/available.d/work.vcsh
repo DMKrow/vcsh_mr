@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/work.git]
+checkout = vcsh clone ssh://git.americas.sgi.com/srv/git/users/danielp/vcsh_work.git work
